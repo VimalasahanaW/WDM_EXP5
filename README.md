@@ -132,12 +132,13 @@ if __name__ == "__main__":
 
 
 ### Output:
-
+## python and programming
 <img width="1144" height="348" alt="image" src="https://github.com/user-attachments/assets/df8fd0c7-e0f8-4e9b-b968-05db076c066e" />
 
+## python or information
 <img width="1131" height="344" alt="image" src="https://github.com/user-attachments/assets/357c014f-737d-4073-a96a-04f69dff605c" />
 
-
+## not retrieval
 <img width="1121" height="342" alt="image" src="https://github.com/user-attachments/assets/5ff0f195-0975-41d7-a9c2-3eb3bc601d93" />
 
 ### Result:
